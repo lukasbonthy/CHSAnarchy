@@ -13,7 +13,7 @@ sdk install java 17.0.9-amzn
 ```
 > write "y" without " and MAKE SURE TO WRITE y
 
-## Make 3 tabs
+## Make 3 command line tabs
 * Server - > First Tab
 * Velocity - > Second Tab
 * Limbo - > Third Tab
