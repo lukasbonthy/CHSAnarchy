@@ -4,6 +4,11 @@
 
 ## Watch Zepr's video on EaglerCux to learn how to setup your server!
 
+### Setup
+Make your server run for 4 hours straight: [Open](https://github.com/settings/codespaces)<br>
+Create your server: [Open](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=879700044&skip_quickstart=true&machine=standardLinux32gb&geo=EuropeWest)
+
+
 ## Installing Java
 ```bash
 sudo apt update -y & sudo apt full-upgrade -y & sudo apt autoremove -y & sudo apt auto-clean -y
