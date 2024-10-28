@@ -39,7 +39,7 @@ chmod +x limbo.sh
 ```
 ## Commands to start EaglerCux
 ```bash
-cd eaglercux
+cd EaglerCux
 python main.py
 ```
 
