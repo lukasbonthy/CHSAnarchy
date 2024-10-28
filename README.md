@@ -2,8 +2,7 @@
 > [!IMPORTANT]
 > Follow the step by step to use EaglerCux
 
-## Making the Github Codespaces with 16GB RAM and 4CPUs
-To make the codespaces, make sure to access from https://github.com/codespaces.
+## Watch Zepr's video on EaglerCux to learn how to setup your server!
 
 ## Installing Java
 ```bash
